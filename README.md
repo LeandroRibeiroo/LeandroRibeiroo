@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Leandro and i'am a Web, and Mobile, Developer!
-- I mostly work with React and React Native, which are sensationals tool for development!
+- I mostly work with React and React Native, which are sensationals tools for development!
