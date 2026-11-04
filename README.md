@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Leandro and i'am a Software Developer!
-- I mostly work with React and React Native, which are sensationals tools for development!
-- Due to everyday demands, I also acquired knowledge in Next.js, MongoDB, PrismaORM, AWS and many other tools!
+Senior React Native Engineer · Mobile accessibility (WCAG 2.2 AA, VoiceOver, TalkBack) · TypeScript · Remote from Brazil (UTC-3)
