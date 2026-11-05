@@ -1,4 +1,4 @@
-Senior React Native engineer specializing in mobile accessibility. Remote from Brazil (UTC-3).
+Software engineer specializing in mobile accessibility. Remote from Brazil (UTC-3).
 
 Currently making the GOL Linhas Aéreas app usable with VoiceOver and TalkBack (WCAG 2.2 AA), as a consultant at BRQ Digital Solutions.
 
